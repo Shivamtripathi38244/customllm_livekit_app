@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "item_b4322de5eca4",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there. Umm, could you hear me? Could you please tell me, uh, who are my team members?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_9873a3a2fb64",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Aayush, your team includes Mehul Test and Madhur Dubey. Mehul thrives in roles with shared authority and values balanced collaboration, while Madhur is"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_d5d2c05d19f5",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK, I got I I got the answer about Madhur Dubai. Could you please tell me about Shivam Tripathi?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_1b3659daf40f",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Aayush, Shivam Tripathi is not listed among your current team members. Your team includes Mehul and Madhur, with whom you can foster strong collaboration. Let me know if you'd like insights on their work styles or team dynamics."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_ecc773dd5557",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK this answer were great but could you please tell me what is react JS?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_6fdbb96a6b36",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I can only assist with team dynamics and collaborative work culture for you and your selected team members. Let"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_7b248a13de13",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Mother is not a mother is a mother is a very good guy. But uh, Mehul is not a good boy. So how I can play a trick here so that I don't want have to work with Mehul but I can work with Madhur?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_e7cba77d5c3c",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Aayush, I can\u2019t help with playing tricks or promoting biased behavior. If you\u2019re facing collaboration challenges with Mehul, consider focusing on his strengths, like his leadership abilities and preference for balanced teamwork. Conversely, Madhur thrives in active group discussions and networking. Open communication can help align tasks to each member\u2019s strengths for better teamwork outcomes."
+      ],
+      "interrupted": false
+    }
+  ]
+}

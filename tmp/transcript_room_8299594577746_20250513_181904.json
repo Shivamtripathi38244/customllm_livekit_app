@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "item_750311b54402",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there, how are you doing?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_23305b3eae4e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "An error occurred while processing your request: 'aayush Test'"
+      ],
+      "interrupted": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "item_c769aaf4c016",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Nenukkumar. Hello, this is Shivam Tripathi. Could you hear me?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_cfc652d64764",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "An error occurred while processing your request: 'aayush Test'"
+      ],
+      "interrupted": false
+    }
+  ]
+}

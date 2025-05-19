@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "item_c615a75695e6",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi Umm, this is Shivam there. Could you hear me?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_9dd48f0491d6",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Shivam, yes, I can hear you clearly. How can I assist you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_e013514a549f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Umm, could you please, umm, tell me uh, why my life kit is not working?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

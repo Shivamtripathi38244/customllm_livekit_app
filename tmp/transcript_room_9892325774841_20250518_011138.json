@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": "item_412e67947f46",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_62fcf9e819bf",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Madhur, great to hear from you! Based on your preferences, you thrive in environments where you can actively engage in discussions and build strong networks. Your warmth and openness make you approachable and supportive, while your drive for influence and control positions you as a goal-oriented"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_bb10d5814f6a",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hey, could you please tell me how should I approach Shivam DARPA?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_205bc11139e2",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Madhur, when approaching Shivam DARPA, focus on his preference for structure and innovation."
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_8f8c720960aa",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "LALALALA."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_4c29901384aa",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Madhur,"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_92996a708188",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi, so, uh, can you please list down the members of my team?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_ace33546256e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Madhur, your team includes Aayush Test and John Doe. \n\nAayush is highly driven, sets ambitious goals, and values influencing outcomes, yet"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_6594f3475726",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello, I don't like ICE. Could you please tell me about Shivam Privaty?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_79e96d889b69",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Madhur, Shivam Privaty is highly driven and goal-oriented, with a strong desire to make"
+      ],
+      "interrupted": true
+    }
+  ]
+}

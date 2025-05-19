@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "item_c1eee3b6c367",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi, this is Shivam Tripathi, could you hear me?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_1cc9746952d3",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Shivam, yes, I can hear you. Based on the insights about Madhur, if your query relates to communication, collaboration, or team dynamics, focus on clarity, purpose, and mutual respect. Engage one-on-one to foster trust, emphasize long-term potential, and tailor your approach to shared values and goals. Be empathetic and communicate your needs effectively to maintain harmony. Let me know how I can support further!"
+      ],
+      "interrupted": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "item_5d6914cc9861",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there, Uh, could you please tell me about Madhur Dubey?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_54139cb77fcf",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Sure, Aayush! Madhur Dubey is a goal-oriented individual who thrives on making an impact and sets high standards for himself. He is actively involved in group discussions and values building networks, making him a team player who might get frustrated with isolated tasks. Madhur comes across as warm and supportive, enjoying a balanced level of closeness in work relationships. While he comfortably shares some personal information, he prefers a moderate approach to openness. His ability to influence and connect with others makes him an approachable and inspiring teammate. Let me know if you'd like more details!"
+      ],
+      "interrupted": false
+    }
+  ]
+}

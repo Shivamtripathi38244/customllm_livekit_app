@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "item_407ec1acdc3e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there. Can you listen me?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_d0746a3d01e7",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "An error occurred while processing your request: 'room_1'"
+      ],
+      "interrupted": false
+    }
+  ]
+}

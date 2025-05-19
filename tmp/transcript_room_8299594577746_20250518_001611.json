@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": "item_1a27ff182a2b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there, uh, could you please tell me about Madhur Dubey? Like what is his name?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_17a573346cf3",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Aayush, Madhur Dubey is a team member known for his balance of warmth and professionalism. He thrives in collaborative environments where he can actively engage in discussions and build connections, though he may feel frustrated with isolated work. Madhur sets high goals, enjoys taking responsibility, and values opportunities to exert influence, but requires occasional breaks. He fosters realistic closeness in relationships and prefers a companionable workplace atmosphere. His openness and supportive nature make him approachable, while his moderate"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_cc7c2fe78575",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "How could you? Could you please, could you please tell me like how could I approach Madhur Dubey?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_119edf4ec2fa",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Sure, Aayush! To effectively approach Madhur Dubey, focus on their preference for active engagement and meaningful discussions. Madhur enjoys environments where collaboration and building networks are valued. Start by involving"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_46ecc7728d47",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there, could you please tell me like how could how I could approach Madhur Dubey?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_300f4cb06e6a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        ""
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_393941a1a1ed",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "4 KK changes."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_95e58d4499cd",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        ""
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_a0229d4cea1e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Switch to the Catalogues movie."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_78b4b25f3cb5",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        ""
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_f4e877b5fe76",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Tomorrow."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_9cb58a35170c",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Did you click with Kaabil next? JS may voice to voicemail integrate Kannada kataka serpulin next."
+      ],
+      "interrupted": false
+    }
+  ]
+}

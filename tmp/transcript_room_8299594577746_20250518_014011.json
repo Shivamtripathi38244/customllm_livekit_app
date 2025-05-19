@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "item_9a79fce6e9f2",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there. Uh, how are you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_78ad3f1a6215",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Understood! Please provide the **user_data**, **team_data**, and the **query**, and I'll craft a concise, personalized voice-friendly response following all the specified guidelines."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_5684ea74d8be",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please list the members of my team?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_29e5b9b996c0",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Could you please provide the specific user query and the context data for `{self.user_data}` and `{self.team_data}` so I can generate the appropriate response?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_1497fbfb0e83",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please tell me about Madhur Dubey?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_316336b066a1",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Certainly! Please provide the query along with the **Current User Data** (`self.user_data`) and **Team Members Data** (`self.team_data`) so I can craft a tailored response."
+      ],
+      "interrupted": false
+    }
+  ]
+}

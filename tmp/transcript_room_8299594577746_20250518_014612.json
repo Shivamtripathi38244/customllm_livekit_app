@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "item_bb2ae8b2a31e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there, could you please tell me who are you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_c9c4433512d2",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello Aayush! I am your SmartLeader voice-to-voice AI companion, here to provide expert insights tailored specifically to you and your team. My role is to assist you with personalized, actionable recommendations by understanding your preferences and work style. For instance, you value influence and control, striving for high-impact goals while balancing opportunities for collaboration with moments of independence. If there\u2019s anything you\u2019d like help with regarding your work or team, feel free to ask\u2014I'm here to make your leadership journey smoother and smarter!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_4acea6ab3e85",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please list my team members?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_5627f2937b01",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Aayush, your current selected team comprises Madhur Dubey. Madhur has a strong drive to make an impact and sets ambitious goals, but may occasionally need breaks from responsibility. He thrives in group discussions and values meaningful networks, though solitary tasks can frustrate him. Madhur expresses warmth and openness, preferring environments where friendliness is appreciated, while sharing personal details moderately. His involvement in projects and maintaining influence are key strengths. If there\u2019s anyone else you'd like to confirm as part of your team, let me know, and I can assist further!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_d8e42734aa31",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please tell me about Shivam Tripathi and Mehuliya's?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_726c1fbdd2fc",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "The individuals Shivam Tripathi and Mehuliya are not included in your selected team members. If you\u2019d like insights on Madhur Dubey, who is part of your selection, I can share that. For queries about other individuals, please ensure they are added to your selected team data. Let me know how you'd like to proceed, Aayush!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_8cc8ec4242b8",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please show me what are the OR how many selected members are there in my team?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_7f1759eeb954",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Aayush, your team currently consists of one selected member: Madhur Dubey. Madhur has a strong drive to make an impact and sets ambitious goals. He enjoys active group discussions and values building networks. While he's warm and supportive, he prefers balanced openness in relationships. Madhur thrives in environments where involvement and influence are encouraged but may need breaks from heavy responsibilities. If you need insights on Madhur\u2019s work preferences or collaboration style, feel free to ask!"
+      ],
+      "interrupted": false
+    }
+  ]
+}

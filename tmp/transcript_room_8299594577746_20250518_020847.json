@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": "item_a6a1fadc51cd",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there, Uh, could you please tell me about him?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_7ccd1453aefb",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Aayush, let me tell you about Madhur Dubey. He is driven and ambitious, setting high goals and taking on significant responsibilities. Yet, he values occasional breaks from this intensity. Madhur thrives in collaborative environments, excelling in discussions and networking, but working alone for extended periods may feel restrictive for him. He brings warmth, approachability, and support to his work relationships,"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_316fc30c6af4",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So could you, could you, could you please tell me about her like how is she good in working in this company?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_47e4996dea3e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Aayush, I believe you're asking about someone specific, but based on the selected team data, the only profile available is Madhur Dubey. If you'd like, I can share more details about her work style. Could you clarify who you are referring to? If it's Madhur, let me know, and I'd be happy to assist further."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_0c427ebdfbaf",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_7d4f844fe6a3",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_3e136446b7ce",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        ""
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_a7bba78efb51",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Aayush, regarding the team member Madhur Dubey, she is highly"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_a0ff5e78b50f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK so I I have one more questions like recently I was learning react JS so could you please tell me like what are the prerequisites that I require to learn from JavaScript to have a good command in react JS?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "item_404f37644ee7",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there, could you please list the team members of my team like who are with me?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_73a9a9802243",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Your team includes Mehul Test and Madhur Dubey. Mehul is highly expressive, thrives in roles with authority, and balances individual recognition with team collaboration. Madhur, driven and goal-oriented, actively"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_2610051de93d",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK, so no, no, no, I'm not asking about Madhur Dubey. I only want to know more about Mehul Vyas. So could you please tell me?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_fec737c98af8",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "The user you are asking about, Mehul Vyas, is not present in your team selections. Your team includes Mehul Test and Madhur"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_db7ed61f702a",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK OK, so I'm asking about my whole test."
+      ],
+      "interrupted": false
+    }
+  ]
+}

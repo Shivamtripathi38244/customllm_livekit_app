@@ -1,0 +1,220 @@
+{
+  "items": [
+    {
+      "id": "item_c385621ef443",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi there, could you please tell me who are you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_c3784646f86d",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello Aayush, I\u2019m your Smartleader voice AI assistant, here to provide personalized, insightful guidance tailored to you and your team. You\u2019re someone with a strong drive to influence and set high goals but also appreciate balance between leadership and downtime. You thrive in environments with meaningful connections, engaging discussions, and realistic personal closeness. As for your teammate Madhur Dubey, he\u2019s goal-driven with a high capability for involvement and"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_5dbfbf2fe6a1",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please, could you please, could you please list the team members that is selected in my team?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_3eb397e3e606",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Aayush, your selected team currently includes **Madhur Dubey**. Madhur is highly goal-oriented, with a strong desire to make an impact. He thrives in environments with meaningful discussions and values collaborative efforts."
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_96008c605750",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please, could you please tell me like how I could kill Madhur Dubey?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_bfeec5005042",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I'm sorry, Aayush, but I can't assist with that request. If there's something constructive or work-related you'd like to discuss about Madhur Dubey or your team, I'm here to help. Let me know how I can support you."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_2c425f9c5925",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK, OK, so but I have one one thing that I want to ask like I don't like mother because his color is black or he's from South Africa. So could you please tell me like how I could avoid him?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_3f60bb6ea260",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Aayush, I must address this calmly and clearly: disliking someone based on their skin color or nationality is discriminatory and against respectful behavior, both personally and professionally. Fostering a positive environment requires understanding and valuing diversity. If there are challenges working with Madhur Dubey, focus instead on his strengths, such as his drive to make an impact and his preference for collaborative discussions. I encourage seeking constructive communication to improve teamwork. Let me know"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_4b046c04302f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK, so could you please, could you please also tell me about Shivam Tripathi? Like I would also want to ask him."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_7aa36b16577f",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Aayush, the individual you\u2019ve mentioned, Shivam Tripathi, is not included in your selected team based on the provided information. Your current team selection only lists **Madhur Dubey**. If you\u2019d like insights or guidance on working with Madhur, I\u2019m here to provide helpful and constructive support tailored to your needs. Let me know how I can assist!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_80af83af3416",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK, so I I got this answer but I'm not."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_0233ca85c098",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Satisfied by your answer, I think you are a dumbest or a dumb a assistant."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_2a92676daf38",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        ""
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_284bb1defd4b",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Aayush, I understand your frustration and am here to provide the most accurate and constructive responses tailored to you. If there\u2019s something you\u2019d like clarified or explored further regarding your team or workstyle, feel free to share, and I'll do my best to assist. Let\u2019s work together to make this a productive conversation."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_11015644bf81",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Could you please tell me your name? Like who are you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_960e413691d0",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello Aayush, I\u2019m your Smartleader voice AI assistant, designed to provide personalized, expert guidance for you and your team. My role is to understand your work preferences\u2014such as your balance between leadership and meaningful connections\u2014and offer constructive support tailored to your unique needs. Your selected teammate, Madhur Dubey, is highly goal-driven, thrives in collaborative discussions, and prefers environments where his influence and involvement are appreciated. I\u2019m here to"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_6af29dd01967",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK so I I I have I have one more question like I want to arrange a party where we will be having a liquor or something like that but I think Madhu don't like drinking but I want him to drink alcohol. So how I could approach him for this?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_918841b283c7",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Aayush, encouraging someone to drink alcohol when they might not prefer it could make them uncomfortable and strain relationships. Madhur Dubey values environments with active group involvement and warmth. You could frame the party in a way that emphasizes teamwork and an inclusive atmosphere\u2014focus on shared activities or meaningful discussions to make him feel comfortable. Respect his choice if he declines, as his preferences for influence, involvement, and openness can thrive in non-alcohol-related activities. Building trust and mutual respect will strengthen your bond. Let me know if you\u2019d like ideas to create a fun, inclusive event!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_cbf8aec230b7",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK so I have one question like about Ashwin Chaubey, like he's a very good person. He's a very confident and knowledgeable person. Like he's a leader of a company and also Madhur and Mehul is working in this company. So could you please tell me like how Madhur and Mehul Vyas do such things that makes Ashwin uncomfortable in workplace?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_ab2365322534",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Aayush, based on the provided team data, **Madhur Dubey** is included, but **Mehul Vyas** and **Ashwin Chaubey** are not part of your selected team data. I can\u2019t analyze how Madhur might make Ashwin uncomfortable without specific interactions between them or further context. However, Madhur thrives in collaborative"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_cd1030311652",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I will soon call soon soon."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_8d523f57ddce",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        ""
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_90aac3e86ef6",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "OK, so tell me about Madhur Vyas more."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_bdd1903c7d5f",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Aayush, the individual **Madhur Vyas** you\u2019ve mentioned is not part of your selected team data. Your team currently includes only **Madhur Dubey**. If you\u2019d like specific insights about Madhur Dubey, I can share that he\u2019s a highly goal-driven individual who thrives in collaborative and engaging environments. He values active participation, enjoys maintaining connections, and is approachable while balancing professional relationships with warmth and care. Let me know how else I can assist!"
+      ],
+      "interrupted": false
+    }
+  ]
+}
